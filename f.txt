@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 kumar
 siva
 ashok
@@ -15,3 +16,8 @@ ashok
 siva
 kumar
 >>>>>>> parent of 26e2bb86... last one
+=======
+kumar
+siva
+ashok
+>>>>>>> parent of 71a1076f... Revert "last try"
