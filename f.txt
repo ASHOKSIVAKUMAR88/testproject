@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 kumar
 siva
 ashok
@@ -9,3 +10,8 @@ a
 a
 a
 >>>>>>> parent of e373d2f0... last try
+=======
+ashok
+siva
+kumar
+>>>>>>> parent of 26e2bb86... last one
